@@ -1,4 +1,4 @@
-# Audio Content Management Application
+# AudioAlchemy
 
 ## Description
 This Java-based application is designed for managing and playing audio content. It allows users to add, search, play, and delete audio files, providing an easy-to-use interface for organizing and enjoying their music library.
