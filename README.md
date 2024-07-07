@@ -1,6 +1,6 @@
 # AudioAlchemy
 
-![Aqualung_music_player_drop_icon svg](https://github.com/georgecuiX/AudioAlchemy/assets/89486336/21bf0ddd-48d2-46b0-a0f6-257c019a6d4e)
+![Video-player-logo-music-logo-Graphics-14301451-1-580x435](https://github.com/georgecuiX/AudioAlchemy/assets/89486336/e2eee8b7-b19e-4e09-b349-70e23ba1972e)
 
 ## Description
 This Java-based application is designed for managing and playing audio content. It allows users to add, search, play, and delete audio files, providing an easy-to-use interface for organizing and enjoying their music library.
